@@ -1,0 +1,9 @@
+{
+  "name": "SEO Slug Generator & URL Cleaner",
+  "short_name": "Slug Generator",
+  "description": "Generate clean, SEO-friendly URL slugs with 100% browser-local processing.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f7f6",
+  "theme_color": "#0f766e"
+}
